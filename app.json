@@ -5,16 +5,16 @@
   "success_url": "/",
   "env": {
     "twilio_account_sid": {
-            "description": "Your Twilio Account Id"
+            "description": "AC59a528e5a4c854fd46959e030d4ed61f"
     },
     "twilio_auth_token": {
-            "description": "Your Twilio Account Token" 
+            "description": "65794cabd3176e73749f245a5f16bb74" 
     },
      "twilio_caller_id": {
-            "description": "Must be a Twilio number in your account" 
+            "description": "+17085406386" 
     },
     "twilio_app_id": {
-            "description": "Application Id - you must create app in your Twilio Account -> Dev Tools ->  Twiml Apps"
+            "description": "AP58d812c98691fa06c8cdfbb28a8e6709"
     }
   }
 }
